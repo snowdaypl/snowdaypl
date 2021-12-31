@@ -1,0 +1,5 @@
+- 👋 Witaj na Oficjalnym Githubie sewrera SnowDay.pl
+- 👀 Ip: SnowDay.pl
+- 🌱 Wersja: 1.17.1
+- 💞️ Eula: Non-premium
+- 📫 Kontakt: snowday.j.pl
